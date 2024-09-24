@@ -1,4 +1,4 @@
-
+// PascalCasing
 function Message(){
     // JSX: JavaScript XML
     const name = '';
